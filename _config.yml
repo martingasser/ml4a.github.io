@@ -43,5 +43,3 @@ collections:
   terms:
     output: true
     permalink: /glossary/:path/
-
-theme: jekyll-theme-minimal
